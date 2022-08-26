@@ -1,0 +1,100 @@
+﻿@page "/"
+@inject HttpClient Http
+@using Newtonsoft.Json;
+@using System.Threading.Tasks
+@using Microsoft.AspNetCore.Components;
+@using Microsoft.JSInterop;
+
+<PageTitle>TheSteroidBible</PageTitle>
+
+<nav class="navbar">
+    <div class="container-fluid">
+        <h4 class="navbar-brand">TheSteroidBible</h4>
+        <form class="d-flex" role="search">
+            <input @bind-value="SearchTerm" @bind-value:event="oninput" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        </form>
+
+    </div>
+</nav>
+
+@if (FilterBodyBuilders == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+
+    @foreach (var bodybuilder in FilterBodyBuilders)
+    {
+        <div class="con content px-4">
+            
+            <div class="row">
+                <div class="col-lg text-center"  >
+                    <h3>@bodybuilder.Name</h3>
+                    <img src="@bodybuilder.Img" class="img-fluid img-responsive" />
+                    <p style="margin: 10px 0;">@bodybuilder.Description</p>
+                    <a style="margin: 0 0;" href="@bodybuilder.Source">Source</a>
+                </div>
+                <div class="col-lg">
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                        <thead>
+                        <tr>
+                            <th scope="col"></th>
+
+                                @for(int i = 0; i < bodybuilder.Cycle.Count(); i++) 
+                                {
+                                    @for(int j = 0; j < bodybuilder.Cycle[i].Count(); j++) {
+                                       @if(!hSet.Contains(bodybuilder.Cycle[i][j][0])){
+                                       <th scope="col">@bodybuilder.Cycle[i][j][0]</th>
+                                       }
+                                       @@hSet.Add(bodybuilder.Cycle[i][j][0]);
+                                    }
+                                }
+                        </tr>  
+                        </thead>
+                        <tbody>
+      
+                            @for(int i = 0; i < bodybuilder.Cycle.Count() ; i++) {
+                          
+                                <tr>
+                                    
+                                    <th scope="row">@bodybuilder.Weeks[i]</th>
+                                   
+                                    @for(int j = 0; j < bodybuilder.Cycle[i].Count(); j++) 
+                                        {
+                                            <td>@bodybuilder.Cycle[i][j][1]</td>
+                                        }
+                          
+                                </tr>
+                            }
+                    
+                            </tbody>
+                        </table>
+                                </div>
+                </div>
+            </div>
+        </div>
+
+        @@hSet.Clear();
+
+    }
+}
+
+@code{
+    [Parameter]
+    public string SearchTerm { get; set; } = "";
+
+    private List<Root>? Bodybuilders = new List<Root>();
+    HashSet<string> hSet = new HashSet<string>();
+
+
+    protected override async Task OnInitializedAsync() =>
+        Bodybuilders = await Http.GetFromJsonAsync<List<Root>>("cycle.json");
+ 
+    
+    List<Root> FilterBodyBuilders => Bodybuilders.Where(i => i.Name.ToLower().Contains(SearchTerm.ToLower())).ToList();
+
+
+
+}

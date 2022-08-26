@@ -1,0 +1,305 @@
+[
+  {
+    "Name": "Arnold Schwarzenegger",
+    "Img": "https://manofmany.com/wp-content/uploads/2019/03/Arnold-Schwarzeneggers-Diet-and-Workout-Plan.jpg",
+    "Description": "Speculative cycle that was said to be common in the golden era by many experts in the bodybuilding field. Arnold is said have run a very similar cycle.",
+    "Source": "https://youtu.be/Ap9I1ReF5KY?t=949",
+    "Weeks": [ "Dose: "],
+    "Cycle": [
+      [
+        [ "Dianabol (/day)", "15-20mg" ],
+        [ "Primobolan (/week)", "100mg" ]
+      ]
+    ]
+  },
+
+  {
+    "Name": "Mike Israetel",
+    "Img": "https://cdn.shopify.com/s/files/1/0503/4652/4865/files/Mike_-_Meet_the_Team.jpg?v=1647182687",
+    "Description": "Cycle that Mike Israetel would have run for the NPC Bodybuilding Show; in a zany alternate universe, someone, not him, might have done",
+    "Source": "https://youtu.be/79juaC0fRC8?t=403",
+    "Weeks": [ "Week: 1", "Week: 2", "Week: 3", "Week: 4", "Week: 5", "Week: 6", "Week: 7", "Week: 8", "Week: 9", "Week: 10", "Week: 11", "Week: 12", "Week: 13", "Week: 14", "Week: 15", "Week: 16", "Week: 17" ],
+    "Cycle": [
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ]
+
+      ],
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ]
+
+      ],
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ]
+
+      ],
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ]
+
+      ],
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ],
+        [ "Anavar", "25mg" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ],
+        [ "Anavar", "25mg" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ],
+        [ "Anavar", "50mg" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ],
+        [ "Anavar", "50mg" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ],
+        [ "Anavar", "50mg" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ],
+        [ "Anavar", "50mg" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "50mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ],
+        [ "Anavar", "75mg" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ],
+        [ "Anavar", "75mg" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "525mg" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ],
+        [ "Anavar", "75mg" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "N/A" ],
+        [ "Primo Enanthate", "700mg" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "3iu, 3iu" ],
+        [ "Anavar", "100mg" ]
+
+      ],
+
+      [
+        [ "Test Enanthate", "N/A" ],
+        [ "Primo Enanthate", "N/A" ],
+        [ "T4 (/day)", "100mcg" ],
+        [ "T3 (/day)", "100mcg" ],
+        [ "GH (AM, PM)", "N/A" ],
+        [ "Anavar", "150mg" ]
+
+      ]
+
+    ]
+  },
+  {
+    "Name": "Greg Doucette",
+    "Img": "https://muscleinsider.com/sites/default/files/greg_doucette.jpg",
+    "Description": "Classic Physique Cycle that Greg Doucette Ran at 4 weeks out.",
+    "Source": "https://www.youtube.com/watch?v=w7CUYdBgLMI",
+    "Weeks": [ "4 Weeks: ", "3 Weeks", "2 Weeks", "1 Week", "Day Before", "Weigh In", "Show" ],
+    "Cycle": [
+      [
+        [ "Test (/week)", "400mg" ],
+        [ "Primobolan Enanthate (/week)", "300mg" ],
+        [ "Masteron (/week)", "300mg" ],
+        [ "Anavar (/day)", "20mg(5am), 20mg(Preworkout)" ],
+        [ "Cardarine (/day)", "20mg" ],
+        [ "Arimidex (/every 2 days)", "1mg" ],
+        [ "THC (for sleep)", "10mg" ]
+
+
+      ],
+      [
+        [ "Test (/week)", "400mg" ],
+        [ "Primobolan Enanthate (/week)", "300mg" ],
+        [ "Masteron (/week)", "300mg" ],
+        [ "Anavar (/day)", "20mg(5am), 20mg(Preworkout)" ],
+        [ "Cardarine (/day)", "20mg" ],
+        [ "Arimidex (/every 2 days)", "1mg" ],
+        [ "THC (for sleep)", "10mg" ],
+        [ "T3 (/day)", "15mcg" ],
+        [ "Clenbuterol (/day)", "10mcg" ],
+        [ "HGH Fragment 176-191 (/day)", "250mcg, 250mcg" ]
+
+
+      ],
+
+      [
+        [ "Test (/week)", "0" ],
+        [ "Primobolan Enanthate (/week)", "400mg" ],
+        [ "Masteron (/week)", "400mg" ],
+        [ "Anavar (/day)", "20mg(5am), 20mg(Preworkout)" ],
+        [ "Cardarine (/day)", "20mg" ],
+        [ "Arimidex (/every 2 days)", "1mg" ],
+        [ "THC (for sleep)", "10mg" ],
+        [ "T3 (/day)", "20mcg, 20mcg" ],
+        [ "Clenbuterol (/day)", "30-40mcg" ],
+        [ "HGH Fragment 176-191 (/day)", "350mcg, 350mcg" ],
+        [ "Halotestin (/day)", "10mg" ],
+        [ "Proviron (/day)", "20mg, 20mg" ],
+        [ "Femara (/day)", "1mg" ]
+
+
+      ],
+      [
+        [ "Test (/week)", "0" ],
+        [ "Primobolan Enanthate (/week)", "400mg" ],
+        [ "Masteron (/week)", "400mg" ],
+        [ "Anavar (/day)", "20mg, 20mg" ],
+        [ "Cardarine (/day)", "20mg" ],
+        [ "Arimidex (/every 2 days)", "1mg" ],
+        [ "THC (for sleep)", "40mg" ],
+        [ "T3 (/day)", "30mcg, 30mcg" ],
+        [ "Clenbuterol (/day)", "50-60mcg" ],
+        [ "HGH Fragment 176-191 (/day)", "500mcg, 500mcg" ],
+        [ "Halotestin (/day)", "10mg, 10mg" ],
+        [ "Proviron (/day)", "25mg, 25mg, 25mg" ],
+        [ "Femara (/day)", "1mg" ],
+        [ "Zopiclone (/day)", "Unknown" ]
+      ],
+      [
+        [ "Test (/week)", "0" ],
+        [ "Primobolan Enanthate (/week)", "0" ],
+        [ "Masteron (/week)", "0" ],
+        [ "Anavar (/day)", "20mg, 20mg" ],
+        [ "Cardarine (/day)", "0" ],
+        [ "Arimidex (/every 2 days)", "0" ],
+        [ "THC (for sleep)", "40mg" ],
+        [ "T3 (/day)", "0" ],
+        [ "Clenbuterol (/day)", "0" ],
+        [ "HGH Fragment 176-191 (/day)", "0" ],
+        [ "Halotestin (/day)", "10mg, 10mg" ],
+        [ "Proviron (/day)", "25mg, 25mg, 25mg" ],
+        [ "Femara (/day)", "1mg" ],
+        [ "Zopiclone (/day)", "Unknown" ]
+
+      ],
+      [
+        [ "Test (/week)", "0" ],
+        [ "Primobolan Enanthate (/week)", "0" ],
+        [ "Masteron (/week)", "0" ],
+        [ "Anavar (/day)", "20mg, 20mg" ],
+        [ "Cardarine (/day)", "0" ],
+        [ "Arimidex (/every 2 days)", "0" ],
+        [ "THC (for sleep)", "40mg" ],
+        [ "T3 (/day)", "0" ],
+        [ "Clenbuterol (/day)", "0" ],
+        [ "HGH Fragment 176-191 (/day)", "0" ],
+        [ "Halotestin (/day)", "10mg, 10mg" ],
+        [ "Proviron (/day)", "15mg, 25mg, 25mg" ],
+        [ "Femara (/day)", "1mg" ],
+        [ "Zopiclone (/day)", "Unknown" ]
+
+      ],
+      [
+        [ "Test (/week)", "0" ],
+        [ "Primobolan Enanthate (/week)", "0" ],
+        [ "Masteron (/week)", "0" ],
+        [ "Anavar (/day)", "20mg, 20mg" ],
+        [ "Cardarine (/day)", "0" ],
+        [ "Arimidex (/every 2 days)", "0" ],
+        [ "THC (for sleep)", "40mg" ],
+        [ "T3 (/day)", "0" ],
+        [ "Clenbuterol (/day)", "0" ],
+        [ "HGH Fragment 176-191 (/day)", "0" ],
+        [ "Halotestin (/day)", "10mg, 10mg" ],
+        [ "Proviron (/day)", "15mg, 25mg, 25mg" ],
+        [ "Femara (/day)", "1mg" ],
+        [ "Zopiclone (/day)", "Unknown" ]
+
+      ]
+
+    ]
+  }
+]

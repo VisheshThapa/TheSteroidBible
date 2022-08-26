@@ -1,0 +1,16 @@
+﻿.con{
+    margin-bottom: 40px;
+}
+
+
+.img-fluid {
+    max-height: 700px;
+}
+
+h3{
+    font-family:Calibri;
+}
+
+.table-responsive{
+    max-width: 1200px;
+}
