@@ -5,10 +5,12 @@
 
 .navbar {
     background-color: #000000;
+
 }
 
 .navbar-brand {
     color: #F6BA1E;
+
 }
 
 .con, .table {
@@ -20,11 +22,17 @@
     max-height: 700px;
 }
 
-h3{
-    font-family:Calibri;
-}
-
 .table-responsive{
     max-width: 1200px;
 }
 
+h4 {
+    font-family: 'Times New Roman';
+    font-size: 1.6rem;
+}
+
+@media only screen and (max-width: 450px) {
+    .container-fluid{
+        justify-content: center;
+    }
+}
