@@ -1,6 +1,20 @@
-﻿.con{
+﻿.con {
     margin-bottom: 40px;
+    
 }
+
+.navbar {
+    background-color: #000000;
+}
+
+.navbar-brand {
+    color: #F6BA1E;
+}
+
+.con, .table {
+    color: #0F0F0F;
+}
+
 
 .img-fluid {
     max-height: 700px;
@@ -13,3 +27,4 @@ h3{
 .table-responsive{
     max-width: 1200px;
 }
+
